@@ -2,7 +2,7 @@ flask==2.2.0
 flask-restful==0.3.10
 Flask-SocketIO==5.3.6
 google-auth==2.27.0
-google-cloud-bigquery==3.19.0
-mysql-connector-python==8.0.25
+google-cloud-bigquery==3.37.0
+mysql-connector-python==9.3.0
 opengamedata-core==0.0.11
 typing==3.7.4.3
